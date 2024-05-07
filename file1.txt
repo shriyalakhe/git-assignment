@@ -1,0 +1,6 @@
+name:shriya
+class:TE
+Subject:WAD
+Rollno.:3336
+
+this is a git assignments
